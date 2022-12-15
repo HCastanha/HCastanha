@@ -29,7 +29,7 @@
 #### Fun facts
 - :girl:&emsp;Olivia's dad
 - :ring:&emsp;Married to [Carol](https://github.com/caroldaniel)
-- :paw_prints:&emsp;I live with 8 :cat: and 1 :dog:
+- :paw_prints:&emsp;I live with 6 :cat: and 1 :dog:
 
 #### Likes
 - :cocktail:&emsp;Cocktails
