@@ -2,7 +2,7 @@
 
 ### Herbie aka Herbert Castanha (he/him/his)
 👨‍💻	&emsp;SAP HANA Specialist @ Intel | Arbit Consulting <br>
-👨‍💻	&emsp;X Software Engineering Cadet @ École 42 | 42sp <br>
+👨‍💻	&emsp;_Sophomore_ Pisciner @ École 42 | 42sp <br>
 :electron:	 &emsp;Electronics / Electrical Engineer @ [FEI][1]
 
 ### Topics of Interest
